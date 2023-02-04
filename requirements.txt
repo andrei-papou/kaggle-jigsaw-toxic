@@ -1,0 +1,15 @@
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+
+bs4
+lxml
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+tensorboard
+torch==1.10.0+cu113
+torchmetrics
+transformers
+typing_extensions
+wandb
